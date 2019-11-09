@@ -26,12 +26,20 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 jupyter notebook available here to explore above questions. Each question has a title (Markdown cells) in the notebook, so it can be easily read from part to part.  
+**survey_results_analysis.ipynb**: jupyter notebook available here to explore above questions. Each question has a title (Markdown cells) in the notebook, so it can be easily read from part to part.  
+
+**survey_results_public.csv**: survey response data downloaded from Kaggle. This is the data source of our analysis.
+
+**survey_results_schema.csv**: survey schema data downloaded from Kaggle. This help us understand the survey questions. 
+
+**survey_results_schema(analysis).xlsx**: Draft file I use to analysis questions, and some draft for data process. Readers DON'T need to read this file.
+
+**pictures folder**: it stores picture which might used for blog. Readers DON'T need to read this folder.
 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@lsaicex/what-does-developer-really-care-about-e25d53387a5c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
