@@ -17,17 +17,17 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. What factors impact the job satisfaction?
-2. What people care when seeking a job?
-3. What is important in Globex's hiring process?
-4. When most people prefer to start work?
+1. Does developer's interest/preference impact their job satisfaction or career satisfaction?
+2. What are developer's preferred, what are not?
+3. What does developer care about when accessing a potential job?
+4. What is important in Globex's hiring process?
+5. When most developers prefer to start work?
 
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is 1 jupyter notebook available here to explore above questions. Each question has a title (Markdown cells) in the notebook, so it can be easily read from part to part.  
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
 ## Results<a name="results"></a>
 
