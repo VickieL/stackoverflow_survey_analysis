@@ -11,7 +11,12 @@ This repo is for an analysis project based on stack overflow survey data.
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*.
+Libraries used in notebook are:
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
